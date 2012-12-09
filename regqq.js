@@ -22,7 +22,7 @@
         document.getElementsByTagName("head")[0].appendChild(script);
     }
 
-  if(top.location.href!='http://zc.qq.com/chs/index.html'){
+	if(top.location.href!='http://zc.qq.com/chs/index.html'){
 		top.location.href='http://zc.qq.com/chs/index.html';
 		return;
 	}
@@ -76,4 +76,4 @@
 })();
 
 //add this bookmark link
-//javascript:void((function(){var%20e=document.createElement('script');e.setAttribute('src','https://github.com/ayeah/RegQQ/regqq.js');document.body.appendChild(e);})())
+//javascript:void((function(){var%20e=document.createElement('script');e.setAttribute('src','https://raw.github.com/ayeah/RegQQ/master/regqq.js');document.body.appendChild(e);})())
