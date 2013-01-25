@@ -11,5 +11,10 @@ javascript:void((function(){var%20e=document.createElement('script');e.setAttrib
 </p>
 <p>
 Tested workiing on firefox and google chrome!<br />
-IE9 reports: blocked due to mime type mismatch <br />
+IE also works! <br />
+</p>
+<p>
+Now moved to sinaapp with a tool to generate your own bookmark.<br />
+现已迁移到新浪云，并提供一个可生成自定义书签的工具。 <br />
+Click <a href="http://regqq.sinaapp.com">http://regqq.sinaapp.com</a>
 </p>
