@@ -1,3 +1,5 @@
+## Deprecated, no one use QQ any more.
+
 RegQQ<br />
 =====<br />
 <br />
